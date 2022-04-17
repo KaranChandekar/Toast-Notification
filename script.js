@@ -9,3 +9,5 @@ const messages = [
 ];
 
 const types = ["info", "success", "error"];
+
+button.addEventListener("click", () => createNotification());
